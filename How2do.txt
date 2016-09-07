@@ -1,0 +1,1 @@
+The sample data contains 6 centroid .shp files and 6 Thiessen polygon .shp files, each time you choose one small centroid and big Thiessen as the input to generate the cross.txt, and choose each Thiessen polygon to generate the within.txt. (For example, choose Centorid 1 and Thiessen2 and press CreateCrossPair button; choose Thiessen1 and press CreateWithinPair button).
