@@ -2,7 +2,7 @@ TopoGraph Introduction
 ======================
 This program aims to calculate the topological graph based on this paper:
 
-<i align="middle">Jiang B. (2016), A Topological Representation for Taking Cities as a Coherent Whole, Preprint: <a rel="nofollow" target="_blank" href="https://arxiv.org/ftp/arxiv/papers/1607/1607.07169.pdf"> https://arxiv.org/ftp/arxiv/papers/1607/1607.07169.pdf </i>
+Jiang B. (2018), A topological representation for taking cities as a coherent whole, Geographical Analysis, 50(3), 298–313. Reprinted in D'Acci L. (editor, 2019), Mathematics of Urban Morphology, Springer: Berlin
 
 <b>The way of operation:</b> 
 
